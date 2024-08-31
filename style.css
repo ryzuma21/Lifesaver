@@ -6,7 +6,9 @@
 
 
 body{
-    
+    background-position-y: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     background-image: url(./image/drop.gif);
     font-family: Poppins;
     background-color: #3a596f;
