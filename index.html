@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Ayat</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>Produced by Yoobi</header>
+        <h1>Al-Quran <span>The Guidance</span></h1>
+        <div class="dropdown">
+            <label class="feel" for="mood">Bagaimana perasaan anda?</label>
+            
+            <select id="mood">
+                <option value="Sedih">Sedih</option>
+                <option value="Senang">Senang</option>
+                <option value="Takut">Takut</option>
+                <option value="Marah">Marah</option>
+                <option value="Bingung">Bingung</option>
+            </select>
+        </div>
+        <div class="text-box" id="verseBox">
+            <h2 class="verse"></h2>
+            <p class="opening"></p>
+            <div class="loader" id="loader"></div>   
+        </div>
+        <div class="button">
+            <button onclick="getVerse()">Beri aku petunjuk</button>
+        </div>
+    </div>
+</body>
+<script src="./content.json" id="quran-json" type="application/json"></script>
+<script src="script.js"></script>
+</html>
