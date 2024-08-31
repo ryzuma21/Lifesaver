@@ -21,11 +21,11 @@ body{
 }
 
 h1{
+    text-wrap: nowrap;
     font-size: 2rem;
     color: #fff;
     font-weight: normal;
-    margin-left: 70px;
-    margin-right: 50px;
+    
 }
 
 h1 span{
