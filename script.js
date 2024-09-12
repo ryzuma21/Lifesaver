@@ -22,7 +22,12 @@ async function getVerse() {
         `;
 
     } else {
-        document.querySelector('.verse').innerHTML = `<p>No verse for this mood yet.</p>`;
+        document.querySelector('.verse').innerHTML = `<p>Coba lagi</p>`;
 
     }
+
+    
 }
+
+
+

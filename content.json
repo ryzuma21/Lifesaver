@@ -283,7 +283,33 @@
                 "mood": "Senang",
                 "verse": "Wahai jiwa yang tenang, kembalilah kepada Tuhanmu dengan rida dan diridai. Lalu, masuklah ke dalam golongan hamba-hamba-Ku dan masuklah ke dalam surga-Ku!",
                 "source": "Al-Fajr, 27-30"
+            },
+            {
+                "mood": "malas",
+                "verse": "Tidaklah seseorang makan suatu makanan yang lebih baik daripada memakan dari hasil kerja keras tangannya sendiri. Dan Nabi Dawud عليه السلام, ia makan dari hasil kerja keras tangannya sendiri.",
+                "source": "HR. Bukhari No. 2072"
+              },
+              {
+                "mood": "malas",
+                "verse": "Amal yang paling dicintai oleh Allah adalah amal yang terus-menerus dilakukan, meskipun sedikit.",
+                "source": "HR. Bukhari No. 6464"
+              },
+              {
+                "mood": "malas",
+                "verse": "Ada dua kenikmatan yang banyak manusia tertipu karenanya: nikmat sehat dan waktu luang.",
+                "source": "HR. Bukhari No. 6412"
+              },
+              {
+                "mood": "malas",
+                "verse": "Ya Allah, aku berlindung kepada-Mu dari kelemahan dan kemalasan, dari ketakutan dan kepikunan, dari kebakhilan dan kekikiran.",
+                "source": "HR. Bukhari No. 6369"
+              },
+              {
+                "moods": "malas",
+              "verse" : "Rasulullah (ﷺ) biasa memohon perlindungan kepada Allah dengan berdoa, ”Ya Allah! Aku berlindung kepada-Mu dari sifat malas, aku berlindung kepada-Mu dari sifat pengecut, aku berlindung kepada-Mu dari usia tua yang lemah, dan aku berlindung kepada-Mu dari sifat kikir.”",
+              "source": "Sahih al-Bukhari 6371"
             }
+
             
         
         
