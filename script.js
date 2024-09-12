@@ -1,5 +1,7 @@
-
-
+document.querySelector('.verse').innerHTML = `
+        <p>Telah sempurna kalimat Tuhanmu (Al-Qur’an) dengan (mengandung) kebenaran dan keadilan. Tidak ada (seorang pun) yang dapat mengubah kalimat-kalimat-Nya. Dia Maha Mendengar lagi Maha Mengetahui.</p>
+        <p><em class="source">Source: Al'Anam, Ayat 115</em></p>
+        `;
 
 async function getVerse() {
 
