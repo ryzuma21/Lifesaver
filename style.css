@@ -50,8 +50,7 @@ h1 span{
 
 
 .dropdown, .text-box, .button{
-    margin: 15px 0;
-    padding: 20px;
+    margin: 30px 0;
     opacity: 90%;
     -webkit-text-stroke: 0.2px #020202;
 }
@@ -63,7 +62,7 @@ h1 span{
     font-size: 1rem;
     border: none;
     border-radius: 5px;
-    width: 102%;
+    width: 100%;
 }
 
 .feel{
