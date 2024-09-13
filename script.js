@@ -2,7 +2,7 @@
 
       
      document.addEventListener('contextmenu', function(event) {
-    e.preventDefault(); 
+    event.preventDefault(); 
     });
 
 
