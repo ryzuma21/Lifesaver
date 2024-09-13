@@ -1,4 +1,12 @@
-document.querySelector('.verse').innerHTML = `
+
+
+      
+    document.addEventListener('contextmenu', function(e) {
+    e.preventDefault(); 
+    });
+
+
+   document.querySelector('.verse').innerHTML = `
          <p class="arabic">وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَّعَدْلًاۗ لَا مُبَدِّلَ لِكَلِمٰتِهٖ ۚوَهُوَ السَّمِيْعُ الْعَلِيْمُ </p>
         <p>Telah sempurna kalimat Tuhanmu (Al-Qur’an) dengan (mengandung) kebenaran dan keadilan. Tidak ada (seorang pun) yang dapat mengubah kalimat-kalimat-Nya. Dia Maha Mendengar lagi Maha Mengetahui.</p>
         <p><em class="source">Source: Al'Anam, Ayat 115</em></p>
