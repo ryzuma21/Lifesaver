@@ -4,18 +4,7 @@
      document.addEventListener('contextmenu', function(event) {
     event.preventDefault(); 
     });
-    document.addEventListener('keydown', function(event) {
-      
-        if (event.key === 'F12' || 
-            (event.ctrlKey && event.shiftKey && (event.key === 'I' || event.key === 'J')) || 
-            (event.ctrlKey && event.key === 'U') || 
-            (event.metaKey && event.key === 'I')) {
-            event.preventDefault();
-            event.stopPropagation();
-            return false;
-        }
-    });
-    
+  
 
 
    document.querySelector('.verse').innerHTML = `
