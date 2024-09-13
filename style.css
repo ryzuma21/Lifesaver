@@ -141,6 +141,19 @@ p{
     overflow-y: auto;
 }
 
+.text-box .arabic {
+   
+    font-family: 'Scheherazade New'; 
+    font-size: 1.4rem; 
+    font-weight: lighter;
+    -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ text-overflow: ellipsis;
+ vertical-align: baseline;
+  direction: rtl;
+  line-height: 1.7;
+}
+
 
 @media (max-width: 768px){
     .text-box {

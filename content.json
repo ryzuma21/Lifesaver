@@ -2,323 +2,378 @@
     "verses": [
         {
             "mood": "Sedih",
-            "verse": "Allah tidak membebani seseorang melainkan sesuai dengan kesanggupannya. Dia mendapat (pahala) dari kebajikan yang dikerjakannya dan dia mendapat (siksa) dari (kejahatan) yang diperbuatnya. (Mereka berdoa), ‟Ya Tuhan kami, janganlah Engkau hukum kami jika kami lupa atau kami melakukan kesalahan. Ya Tuhan kami, janganlah Engkau bebani kami dengan beban yang berat sebagaimana Engkau bebankan kepada orang-orang sebelum kami. Ya Tuhan kami, janganlah Engkau pikulkan kepada kami apa yang tidak sanggup kami memikulnya. Maafkanlah kami, ampunilah kami, dan rahmatilah kami. Engkaulah pelindung kami, maka tolonglah kami menghadapi orang-orang kafir‟",
+            "verse": "Allah tidak membebani seseorang melainkan sesuai dengan kesanggupannya. Dia mendapat (pahala) dari kebajikan yang dikerjakannya dan dia mendapat (siksa) dari (kejahatan) yang diperbuatnya. (Mereka berdoa), 'Ya Tuhan kami, janganlah Engkau hukum kami jika kami lupa atau kami melakukan kesalahan. Ya Tuhan kami, janganlah Engkau bebani kami dengan beban yang berat sebagaimana Engkau bebankan kepada orang-orang sebelum kami. Ya Tuhan kami, janganlah Engkau pikulkan kepada kami apa yang tidak sanggup kami memikulnya. Maafkanlah kami, ampunilah kami, dan rahmatilah kami. Engkaulah pelindung kami, maka tolonglah kami menghadapi orang-orang kafir'",
+            "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًۭا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
             "source": "Surah Al-Baqarah, Ayah 286"
         },
         {
             "mood": "Senang",
             "verse": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+            "arabic": "فَبِأَيِّ آلَآءِ رَبِّكُمَا تُكَذِّبَانِ",
             "source": "Surah Ar-Rahman, Ayah 13"
-        }
-        ,
+        },
         {
             "mood": "Takut",
-            "verse": "Dan sungguh akan Kami berikan cobaan kepadamu, dengan sedikit ketakutan, kelaparan, kekurangan harta, jiwa dan buah-buahan. Dan berikanlah berita gembira kepada orang-orang yang sabar",
+            "verse": "Dan sungguh akan Kami berikan cobaan kepadamu, dengan sedikit ketakutan, kelaparan, kekurangan harta, jiwa dan buah-buahan. Dan berikanlah berita gembira kepada orang-orang yang sabar.",
+            "arabic": "وَلَنَبْلُوَنَّكُم بِشَىْءٍۢ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍۢ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ ۗ وَبَشِّرِ ٱلصَّـٰبِرِينَ",
             "source": "Surah Al-Baqarah, Ayat 155"
         },
         {
             "mood": "Marah",
             "verse": "(yaitu) orang yang berinfak, baik di waktu lapang maupun sempit, dan orang-orang yang menahan amarahnya dan memaafkan (kesalahan) orang lain. Dan Allah mencintai orang yang berbuat kebaikan.",
-            "translation": "Quran 55:13",
+            "arabic": "ٱلَّذِينَ يُنفِقُونَ فِى ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَـٰظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
             "source": "Surah Al-Imran, Ayat 134"
         },
         {
             "mood": "Bingung",
-            "verse": " dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk,",
-            "translation": "Quran 55:13",
+            "verse": "dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk.",
+            "arabic": "وَوَجَدَكَ ضَآلًّۭا فَهَدَىٰ",
             "source": "Surah Ad-Duhaa, Ayat 7"
         },
         {
             "mood": "Takut",
             "verse": "Wahai orang-orang yang beriman, mohonlah pertolongan (kepada Allah) dengan sabar dan salat. Sesungguhnya Allah beserta orang-orang yang sabar.",
-            "source": "Al-Baqarah, Ayat 153"
+            "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِينَ",
+            "source": "Surah Al-Baqarah, Ayat 153"
         },
         {
             "mood": "Takut",
             "verse": "Janganlah kamu mengatakan bahwa orang-orang yang terbunuh di jalan Allah (mereka) telah mati. Namun, (sebenarnya mereka) hidup, tetapi kamu tidak menyadarinya.",
-            "source": "Al-Baqarah, Ayat 154"
+            "arabic": "وَلَا تَقُولُوا۟ لِمَن يُقْتَلُ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتٌۢ ۚ بَلْ أَحْيَآءٌۭ وَلَـٰكِن لَّا تَشْعُرُونَ",
+            "source": "Surah Al-Baqarah, Ayat 154"
         },
-        {
-            "mood": "Takut",
-            "verse": "Kami pasti akan mengujimu dengan sedikit ketakutan dan kelaparan, kekurangan harta, jiwa, dan buah-buahan. Sampaikanlah (wahai Nabi Muhammad,) kabar gembira kepada orang-orang sabar.",
-            "source": "Al-Baqarah, Ayat 155"
-        },
+        
         {
             "mood": "Takut",
             "verse": "Katakanlah (Nabi Muhammad), 'Aku berlindung kepada Tuhan yang (menjaga) fajar (subuh).'",
-            "source": "Al-Falaq, Ayat 1"
+            "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+            "source": "Surah Al-Falaq, Ayat 1"
         },
         {
             "mood": "Takut",
             "verse": "Janganlah kamu (merasa) lemah dan jangan (pula) bersedih hati, padahal kamu paling tinggi (derajatnya) jika kamu orang-orang mukmin.",
-            "source": "Al-Imran, Ayat 139"
+            "arabic": "وَلَا تَهِنُوا۟ وَلَا تَحْزَنُوا۟ وَأَنتُمُ ٱلْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+            "source": "Surah Al-Imran, Ayat 139"
         },
         {
             "mood": "Takut",
             "verse": "Dialah yang telah menurunkan ketenangan ke dalam hati orang-orang mukmin untuk menambah keimanan atas keimanan mereka (yang telah ada). Milik Allahlah bala tentara langit dan bumi dan Allah Maha Mengetahui lagi Mahabijaksana.",
-            "source": "Al-Fath, Ayat 4"
+            "arabic": "هُوَ ٱلَّذِىٓ أَنزَلَ ٱلسَّكِينَةَ فِى قُلُوبِ ٱلْمُؤْمِنِينَ لِيَزْدَادُوٓا۟ إِيمَـٰنًۭا مَّعَ إِيمَـٰنِهِمْ ۗ وَلِلَّهِ جُنُودُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+            "source": "Surah Al-Fath, Ayat 4"
         },
         {
             "mood": "Takut",
             "verse": "Apabila kamu telah menyelesaikan salat, berzikirlah kepada Allah (mengingat dan menyebut-Nya), baik ketika kamu berdiri, duduk, maupun berbaring. Apabila kamu telah merasa aman, laksanakanlah salat itu (dengan sempurna). Sesungguhnya salat itu merupakan kewajiban yang waktunya telah ditentukan atas orang-orang mukmin.",
-            "source": "An-Nisa, Ayat 103"
+            "arabic": "فَإِذَا قَضَيْتُمُ ٱلصَّلَوٰةَ فَٱذْكُرُوا۟ ٱللَّهَ قِيَـٰمًۭا وَقُعُودًۭا وَعَلَىٰ جُنُوبِكُمْ ۚ فَإِذَا ٱطْمَأْنَنتُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ ۚ إِنَّ ٱلصَّلَوٰةَ كَانَتْ عَلَى ٱلْمُؤْمِنِينَ كِتَـٰبًۭا مَّوْقُوتًۭا",
+            "source": "Surah An-Nisa, Ayat 103"
         },
         {
             "mood": "Takut",
             "verse": "Karena sesungguhnya sesudah kesulitan itu ada kemudahan, sesungguhnya sesudah kesulitan itu ada kemudahan.",
-            "source": "Al-Insyirah, Ayat 5-6"
+            "arabic": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا إِنَّ مَعَ ٱلْعُسْرِ يُسْرًۭا",
+            "source": "Surah Al-Insyirah, Ayat 5-6"
         },
         {
             "mood": "Takut",
             "verse": "Katakanlah (Muhammad), 'Tidak akan menimpa kami melainkan apa yang telah ditetapkan Allah bagi kami. Dialah Pelindung kami, dan hanya kepada Allah bertawakallah orang-orang yang beriman.'",
-            "source": "At-Taubah, Ayat 51"
+            "arabic": "قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+            "source": "Surah At-Taubah, Ayat 51"
         },
         {
             "mood": "Takut",
             "verse": "Wahai manusia, sesungguhnya janji Allah itu benar. Maka, janganlah sekali-kali kehidupan dunia memperdayakan kamu dan janganlah (setan) yang pandai menipu memperdayakan kamu tentang Allah.",
-            "source": "Fathir, Ayat 5"
+            "arabic": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ فَلَا تَغُرَّنَّكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ",
+            "source": "Surah Fathir, Ayat 5"
         },
         
-            {
-                "mood": "Sedih",
-                "verse": "Wahai orang-orang yang beriman, apabila dikatakan kepadamu 'Berilah kelapangan di dalam majelis-majelis,' lapangkanlah, niscaya Allah akan memberi kelapangan untukmu. Apabila dikatakan, 'Berdirilah,' (kamu) berdirilah. Allah niscaya akan mengangkat orang-orang yang beriman di antaramu dan orang-orang yang diberi ilmu beberapa derajat. Allah Mahateliti terhadap apa yang kamu kerjakan.",
-                "source": "Al-Mujadilah, Ayat 11"
-            },
-            {
-                "mood": "Sedih",
-                "verse": "Wahai orang-orang yang beriman, mohonlah pertolongan (kepada Allah) dengan sabar dan salat. Sesungguhnya Allah beserta orang-orang yang sabar.",
-                "source": "Al-Baqarah, Ayat 153"
-            },
-            {
-                "mood": "Sedih",
-                "verse": "Katakanlah (Nabi Muhammad), 'Wahai hamba-hamba-Ku yang melampaui batas (dengan menzalimi) dirinya sendiri, janganlah berputus asa dari rahmat Allah. Sesungguhnya Allah mengampuni dosa semuanya. Sesungguhnya Dialah Yang Maha Pengampun lagi Maha Penyayang.",
-                "source": "Az-Zumar, Ayat 53"
-            },
-            {
-                "mood": "Sedih",
-                "verse": "Orang-orang yang berusaha dengan sungguh-sungguh untuk (mencari keridaan) Kami benar-benar akan Kami tunjukkan kepada mereka jalan-jalan Kami. Sesungguhnya Allah benar-benar bersama orang-orang yang berbuat kebaikan.",
-                "source": "Al-Ankabut, Ayat 69"
-            },
-            {
-                "mood": "Sedih",
-                "verse": "Wahai orang-orang yang beriman, bersabarlah kamu, kuatkanlah kesabaranmu, tetaplah bersiap siaga di perbatasan (negerimu), dan bertakwalah kepada Allah agar kamu beruntung.",
-                "source": "Al-Imran, Ayat 200"
-            },
-            {
-                "mood": "Sedih",
-                "verse": "Apakah kamu mengira bahwa kamu akan masuk surga, padahal belum datang kepadamu (cobaan) seperti (yang dialami) orang-orang terdahulu sebelum kamu. Mereka ditimpa kemelaratan, penderitaan, dan diguncang (dengan berbagai cobaan) sehingga Rasul dan orang-orang yang beriman bersamanya berkata, 'Kapankah datang pertolongan Allah?' Ingatlah, sesungguhnya pertolongan Allah itu dekat.",
-                "source": "Al-Baqarah, Ayat 214"
-            },
-            {
-                "mood": "Sedih",
-                "verse": "Sungguh, Kami telah memuliakan anak cucu Adam dan Kami angkut mereka di darat dan di laut. Kami anugerahkan pula kepada mereka rezeki dari yang baik-baik dan Kami lebihkan mereka di atas banyak makhluk yang Kami ciptakan dengan kelebihan yang sempurna.",
-                "source": "Al-Isra, Ayat 70"
-            },
-            {
-                "mood": "Sedih",
-                "verse": "Wahai orang-orang yang beriman, bertobatlah kepada Allah dengan tobat yang semurni-murninya. Mudah-mudahan Tuhanmu akan menghapus kesalahan-kesalahanmu dan memasukkanmu ke dalam surga yang mengalir di bawahnya sungai-sungai pada hari ketika Allah tidak menghinakan Nabi dan orang-orang yang beriman bersamanya. Cahaya mereka memancar di hadapan dan di sebelah kanannya. Mereka berkata, 'Ya Tuhan kami, sempurnakanlah untuk kami cahaya kami dan ampunilah kami. Sesungguhnya Engkau Mahakuasa atas segala sesuatu.'",
-                "source": "At-Tahrim, Ayat 8"
-            },
-            {
-                "mood": "Sedih",
-                "verse": "Apakah manusia mengira bahwa mereka akan dibiarkan (hanya dengan) berkata, 'Kami telah beriman,' sedangkan mereka tidak diuji?",
-                "source": "Al-Ankabut, Ayat 2"
-            },
-            {
-                "mood": "Sedih",
-                "verse": "(Adapun) orang-orang yang beriman dan mengerjakan kebajikan, Kami tidak akan membebani seseorang melainkan menurut kesanggupannya. Mereka itulah penghuni surga. Mereka kekal di dalamnya.",
-                "source": "Al-A'raf, Ayat 42"
-            },
-            {
-                "mood": "Bingung",
-                "verse": "Sesungguhnya Al-Qur’an ini memberi petunjuk ke (jalan) yang paling lurus dan memberi kabar gembira kepada orang-orang mukmin yang mengerjakan kebajikan bahwa bagi mereka ada pahala yang sangat besar",
-                "source": "Al-Isra, Ayat 9"
-            },
-            {
-                "mood": "Bingung",
-                "verse": "(yaitu) bagi siapa di antaramu yang hendak menempuh jalan yang lurus.",
-                "source": "At-Takwir, Ayat 28"
-            },
-            {
-                "mood": "Bingung",
-                "verse": "(Yaitu) mereka yang mendengarkan perkataan lalu mengikuti apa yang paling baik di antaranya. Mereka itulah orang-orang yang telah diberi petunjuk oleh Allah dan mereka itulah ululalbab (orang-orang yang mempunyai akal sehat).",
-                "source": "Az-Zumar, Ayat 18"
-            },
-            {
-                "mood": "Bingung",
-                "verse": "Wahai manusia, sungguh telah datang kepadamu pelajaran (Al-Qur’an) dari Tuhanmu, penyembuh bagi sesuatu (penyakit) yang terdapat dalam dada, dan petunjuk serta rahmat bagi orang-orang mukmin.",
-                "source": "Yunus, Ayat 57"
-            },
-            {
-                "mood": "Bingung",
-                "verse": "Agar orang-orang yang telah diberi ilmu itu mengetahui bahwa ia (Al-Qur’an) adalah kebenaran dari Tuhanmu sehingga mereka beriman dan hati mereka tunduk kepadanya. Sesungguhnya Allah benar-benar Maha Pemberi petunjuk kepada orang-orang yang beriman ke jalan yang lurus.",
-                "source": "Al-Hajj, Ayat 54"
-            },
-            {
-                "mood": "Bingung",
-                "verse": "Kami tidak menurunkan Kitab (Al-Qur’an) ini kepadamu (Nabi Muhammad), kecuali agar engkau menjelaskan kepada mereka apa yang mereka perselisihkan serta menjadi petunjuk dan rahmat bagi kaum yang beriman.",
-                "source": "An-Nahl, Ayat 64"
-            },
-            {
-                "mood": "Bingung",
-                "verse": "Dengannya (kitab suci) Allah menunjukkan kepada orang yang mengikuti rida-Nya jalan-jalan keselamatan, mengeluarkannya dari berbagai kegelapan menuju cahaya dengan izin-Nya, dan menunjukkan kepadanya (satu) jalan yang lurus.",
-                "source": "Al-Ma'idah, Ayat 16"
-            },
-            {
-                "mood": "Bingung",
-                "verse": "Ini (Al-Qur’an) adalah pedoman bagi manusia, petunjuk, dan rahmat bagi kaum yang meyakini(-nya).",
-                "source": "Al-Jatsiyah, Ayat 20"
-            },
-            {
-                "mood": "Bingung",
-                "verse": "Dan Kami cabut segala macam dendam yang berada di dalam dada mereka; mengalir di bawah mereka sungai-sungai dan mereka berkata: 'Segala puji bagi Allah yang telah menunjuki kami kepada (surga) ini. Dan kami sekali-kali tidak akan mendapat petunjuk kalau Allah tidak memberi kami petunjuk. Sesungguhnya telah datang rasul-rasul Tuhan kami, membawa kebenaran.' Dan diserukan kepada mereka: 'Itulah surga yang diwariskan kepadamu, disebabkan apa yang dahulu kamu kerjakan.'",
-                "source": "Al-A’raaf, Ayat 43"
-            },
-            {
-                "mood": "Bingung",
-                "verse": "Sesungguhnya Tuhanmu, Dia-lah yang lebih mengetahui tentang orang yang tersesat dari jalan-Nya dan Dia lebih mengetahui tentang orang orang yang mendapat petunjuk.",
-                "source": "Al-An’aam, Ayat 117"
-            },
-            {
-                "mood": "Marah",
-                "verse": "Bersabarlah atas segala apa yang mereka katakan; dan ingatlah hamba Kami Daud yang mempunyai kekuatan; sesungguhnya dia amat taat (kepada Tuhan).",
-                "source": "Shad, 17"
-            },
-            {
-                "mood": "Marah",
-                "verse": "Jika kamu membalas, balaslah dengan (balasan) yang sama dengan siksaan yang ditimpakan kepadamu. Sungguh, jika kamu bersabar, hal itu benar-benar lebih baik bagi orang-orang yang sabar.",
-                "source": "An-Nahl, 126"
-            },
-            {
-                "mood": "Marah",
-                "verse": "Bersabarlah (Nabi Muhammad) dan kesabaranmu itu semata-mata dengan (pertolongan) Allah, janganlah bersedih terhadap (kekufuran) mereka, dan jangan (pula) bersempit dada terhadap tipu daya yang mereka rencanakan.",
-                "source": "An-Nahl, 127"
-            },
-            {
-                "mood": "Marah",
-                "verse": "Bersegeralah menuju ampunan dari Tuhanmu dan surga (yang) luasnya (seperti) langit dan bumi yang disediakan bagi orang-orang yang bertakwa.",
-                "source": "Ali 'Imran, 133"
-            },
-            {
-                "mood": "Marah",
-                "verse": "Taatilah Allah dan Rasul (Nabi Muhammad) agar kamu diberi rahmat.",
-                "source": "Ali 'Imran, 132"
-            },
-            {
-                "mood": "Marah",
-                "verse": "“Ya (cukup).” Jika kamu bersabar dan bertakwa, lalu mereka datang menyerang kamu dengan tiba-tiba, niscaya Allah menolongmu dengan lima ribu malaikat yang memakai tanda.",
-                "source": "Ali 'Imran, 125"
-            },
-            {
-                "mood": "Marah",
-                "verse": "Akan tetapi, sungguh siapa yang bersabar dan memaafkan, sesungguhnya yang demikian itu termasuk urusan yang (patut) diutamakan.",
-                "source": "Asy-Syura, 43"
-            },
-            {
-                "mood": "Marah",
-                "verse": "“Wahai anakku, tegakkanlah sholat dan suruhlah (manusia) berbuat yang makruf dan cegahlah (mereka) dari berbuat yang mungkar dan bersabarlah terhadap apa yang menimpamu, sesungguhnya yang demikian itu termasuk perkara yang penting.”",
-                "source": "Luqman, 17"
-            },
-            {
-                "mood": "Marah",
-                "verse": "“Mereka itulah orang yang dibalasi dengan martabat yang tinggi (dalam surga) karena kesabaran mereka dan mereka disambut dengan penghormatan dan ucapan selamat di dalamnya,”",
-                "source": "Al-Furqan, 75"
-            },
-            {
-                "mood": "Marah",
-                "verse": "Dan bersabarlah, karena sesungguhnya Allah tiada menyia-nyiakan pahala orang-orang yang berbuat kebaikan.",
-                "source": "Hud, 115"
-            },
-            {
-                "mood": "Senang",
-                "verse": "Maka ingatlah kamu kepada-Ku, niscaya Aku ingat pula kepadamu, dan bersyukurlah kepada-Ku, dan janganlah kamu mengingkari nikmat-Ku.",
-                "source": "Al-Baqarah, Ayat 152"
-            },
-            {
-                "mood": "Senang",
-                "verse": "Hai orang-orang yang beriman, makanlah yang baik-baik dari rezeki yang telah Kami berikan kepadamu dan bersyukurlah kepada Allah, jika benar-benar hanya kepada-Nya kamu menyembah.",
-                "source": "Al-Baqarah, Ayat 172"
-            },
-            {
-                "mood": "Senang",
-                "verse": "Sesuatu yang bernyawa tidak akan mati melainkan atas izin Allah, sebagai ketetapan yang sudah ditentukan waktunya. Barangsiapa menghendaki pahala dunia, niscaya Kami berikan kepadanya pahala dunia itu, dan barangsiapa menghendaki pahala akhirat, niscaya Kami berikan (pula) kepadanya pahala akhirat itu. Dan kami akan memberi balasan kepada orang-orang yang bersyukur.",
-                "source": "Ali Imran, Ayat 145"
-            },
-            {
-                "mood": "Senang",
-                "verse": "Mengapa Allah akan menyiksamu, jika kamu bersyukur dan beriman?. Dan Allah adalah Maha Mensyukuri lagi Maha Mengetahui.",
-                "source": "An-Nisa, Ayat 147"
-            },
-            {
-                "mood": "Senang",
-                "verse": "Tanah yang baik, tanaman-tanamannya tumbuh subur atas izin Allah. Dan tanah yang tidak subur, tanaman-tanamannya hanya tumbuh merana. Demikianlah Kami mengulangi tanda-tanda kebesaran (Kami) bagi orang-orang yang bersyukur.",
-                "source": "Al-A’raf, Ayat 58"
-            },
-            {
-                "mood": "Senang",
-                "verse": "(Yaitu) orang-orang yang beriman dan hati mereka menjadi tenteram dengan mengingat Allah. Ingatlah, bahwa hanya dengan mengingat Allah hati akan selalu tenteram.",
-                "source": "Ar-Rad, Ayat 28"
-            },
-            {
-                "mood": "Senang",
-                "verse": "Dan ingatlah ketika Tuhanmu memaklumkan, “Sesungguhnya jika kamu bersyukur, pasti Aku akan menambahkan nikmat-Ku kepadamu, dan jika kamu mengingkari (nikmat-Ku), maka sesungguhnya azab-Ku sangatlah pedih”.",
-                "source": "Ibrahim, Ayat 7"
-            },
-            {
-                "mood": "Senang",
-                "verse": "(Yang demikian itu kami tetapkan) agar kamu tidak bersedih terhadap apa yang luput dari kamu dan tidak pula terlalu gembira terhadap apa yang diberikan-Nya kepadamu. Allah tidak menyukai setiap orang yang sombong lagi membanggakan diri.",
-                "source": "Al-Hadid, Ayat 23"
-            },
-            {
-                "mood": "Senang",
-                "verse": "Sungguh, beruntunglah orang-orang mukmin. kecuali terhadap istri-istri mereka atau hamba sahaya yang mereka miliki. Sesungguhnya mereka tidak tercela (karena menggaulinya).",
-                "source": "Al-Mu'minun, Ayat 1-6"
-            },
-            {
-                "mood": "Senang",
-                "verse": "(Sungguh beruntung pula) orang-orang yang memelihara amanat dan janji mereka. Orang-orang yang memelihara salat mereka. Mereka itulah orang-orang yang akan mewarisi. (Yaitu) orang-orang yang akan mewarisi (surga) Firdaus. Mereka kekal di dalamnya.",
-                "source": "Al-Mu'minun, Ayat 8-11"
-            },
-            {
-                "mood": "Senang",
-                "verse": "Wahai jiwa yang tenang, kembalilah kepada Tuhanmu dengan rida dan diridai. Lalu, masuklah ke dalam golongan hamba-hamba-Ku dan masuklah ke dalam surga-Ku!",
-                "source": "Al-Fajr, 27-30"
-            },
-            {
-                "mood": "malas",
-                "verse": "Tidaklah seseorang makan suatu makanan yang lebih baik daripada memakan dari hasil kerja keras tangannya sendiri. Dan Nabi Dawud عليه السلام, ia makan dari hasil kerja keras tangannya sendiri.",
-                "source": "HR. Bukhari No. 2072"
-              },
-              {
-                "mood": "malas",
-                "verse": "Amal yang paling dicintai oleh Allah adalah amal yang terus-menerus dilakukan, meskipun sedikit.",
-                "source": "HR. Bukhari No. 6464"
-              },
-              {
-                "mood": "malas",
-                "verse": "Ada dua kenikmatan yang banyak manusia tertipu karenanya: nikmat sehat dan waktu luang.",
-                "source": "HR. Bukhari No. 6412"
-              },
-              {
-                "mood": "malas",
-                "verse": "Ya Allah, aku berlindung kepada-Mu dari kelemahan dan kemalasan, dari ketakutan dan kepikunan, dari kebakhilan dan kekikiran.",
-                "source": "HR. Bukhari No. 6369"
-              },
-              {
-                "moods": "malas",
-              "verse" : "Rasulullah (ﷺ) biasa memohon perlindungan kepada Allah dengan berdoa, ”Ya Allah! Aku berlindung kepada-Mu dari sifat malas, aku berlindung kepada-Mu dari sifat pengecut, aku berlindung kepada-Mu dari usia tua yang lemah, dan aku berlindung kepada-Mu dari sifat kikir.”",
-              "source": "Sahih al-Bukhari 6371"
-            },
-            {
-                "moods": "malas",
-              "verse" : "Sesungguhnya orang-orang munafik itu menipu Allah, dan Allah akan membalas tipuan mereka. Dan apabila mereka berdiri untuk shalat mereka berdiri dengan malas. Mereka bermaksud riya (dengan shalat) di hadapan manusia. Dan tidaklah mereka menyebut Allah kecuali sedikit sekali.",
-              "source": "Surat An-Nisa, Ayat 142"
-            },
-            {
-                "moods": "malas",
-              "verse" : "Dan tidak ada yang menghalangi mereka untuk diterima dari mereka nafkah-nafkahnya melainkan karena mereka kafir kepada Allah dan Rasul-Nya dan mereka tidak mengerjakan sembahyang, melainkan dengan malas dan tidak (pula) menafkahkan (harta) mereka, melainkan dengan rasa enggan.",
-              "source": "Surat At-Taubah, Ayat 54"
-            }
+        {
+            "mood": "Sedih",
+            "verse": "Wahai orang-orang yang beriman, apabila dikatakan kepadamu 'Berilah kelapangan di dalam majelis-majelis,' lapangkanlah, niscaya Allah akan memberi kelapangan untukmu. Apabila dikatakan, 'Berdirilah,' (kamu) berdirilah. Allah niscaya akan mengangkat orang-orang yang beriman di antaramu dan orang-orang yang diberi ilmu beberapa derajat. Allah Mahateliti terhadap apa yang kamu kerjakan.",
+            "source": "Al-Mujadilah, Ayat 11",
+            "arabic": "يَا أَيُّهَا ٱلَّذِينَ آمَنُوا ۖ إِذَا قِيلَ لَكُمْ ٱمْشُوا فِي ٱلْمَجَالِسِ فَٱمْشُوا ۚ يَرْفَعِ ٱللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَٱلَّذِينَ أُوتُوا ٱلْعِلْمَ دَرَجَاتٍ ۗ وَٱللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ"
+        },
+        {
+            "mood": "Sedih",
+            "verse": "Wahai orang-orang yang beriman, mohonlah pertolongan (kepada Allah) dengan sabar dan salat. Sesungguhnya Allah beserta orang-orang yang sabar.",
+            "source": "Al-Baqarah, Ayat 153",
+            "arabic": "يَا أَيُّهَا ٱلَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَٱلصَّلَوٰةِ ۗ إِنَّ ٱللَّهَ مَعَ ٱلصَّابِرِينَ"
+        },
+        {
+            "mood": "Sedih",
+            "verse": "Katakanlah (Nabi Muhammad), 'Wahai hamba-hamba-Ku yang melampaui batas (dengan menzalimi) dirinya sendiri, janganlah berputus asa dari rahmat Allah. Sesungguhnya Allah mengampuni dosa semuanya. Sesungguhnya Dialah Yang Maha Pengampun lagi Maha Penyayang.",
+            "source": "Az-Zumar, Ayat 53",
+            "arabic": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِن رَّحْمَةِ ٱللَّهِ ۗ إِنَّ ٱللَّهَ يَغْفِرُ ٱلْذُنُوبَ جَمِيعًا ۗ إِنَّهُ هُوَ ٱلْغَفُورُ ٱلْرَّحِيمُ"
+        },
+        {
+            "mood": "Sedih",
+            "verse": "Orang-orang yang berusaha dengan sungguh-sungguh untuk (mencari keridaan) Kami benar-benar akan Kami tunjukkan kepada mereka jalan-jalan Kami. Sesungguhnya Allah benar-benar bersama orang-orang yang berbuat kebaikan.",
+            "source": "Al-Ankabut, Ayat 69",
+            "arabic": "وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۗ وَإِنَّ ٱللَّهَ لَمَعَ ٱلْمُحْسِنِينَ"
+        },
+        {
+            "mood": "Sedih",
+            "verse": "Wahai orang-orang yang beriman, bersabarlah kamu, kuatkanlah kesabaranmu, tetaplah bersiap siaga di perbatasan (negerimu), dan bertakwalah kepada Allah agar kamu beruntung.",
+            "source": "Al-Imran, Ayat 200",
+            "arabic": "يَا أَيُّهَا ٱلَّذِينَ آمَنُوا صَبِرُوا وَصَابِرُوا وَرَابِطُوا وَاتَّقُوا ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ"
+        },
+        {
+            "mood": "Sedih",
+            "verse": "Apakah kamu mengira bahwa kamu akan masuk surga, padahal belum datang kepadamu (cobaan) seperti (yang dialami) orang-orang terdahulu sebelum kamu. Mereka ditimpa kemelaratan, penderitaan, dan diguncang (dengan berbagai cobaan) sehingga Rasul dan orang-orang yang beriman bersamanya berkata, 'Kapankah datang pertolongan Allah?' Ingatlah, sesungguhnya pertolongan Allah itu dekat.",
+            "source": "Al-Baqarah, Ayat 214",
+            "arabic": "أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا ٱلْجَنَّةَ وَلَمَّا يَأْتِكُمْ مَثَلُ ٱلَّذِينَ خَلَوْا مِن قَبْلِكُمْ مَسَّتْهُمُ ٱلْبَأْسَاءُ وَٱلْضَّرَّاءُ وَزُلْزِلُوا حَتَّىٰ يَقُولَ ٱلرَّسُولُ وَٱلَّذِينَ آمَنُوا مَعَهُ مَتَىٰ نَصْرُ ٱللَّهِ ۗ أَلَا إِنَّ نَصْرَ ٱللَّهِ قَرِيبٌ"
+        },
+        {
+            "mood": "Sedih",
+            "verse": "Sungguh, Kami telah memuliakan anak cucu Adam dan Kami angkut mereka di darat dan di laut. Kami anugerahkan pula kepada mereka rezeki dari yang baik-baik dan Kami lebihkan mereka di atas banyak makhluk yang Kami ciptakan dengan kelebihan yang sempurna.",
+            "source": "Al-Isra, Ayat 70",
+            "arabic": "وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي ٱلْبَرِّ وَٱلْبَحْرِ وَرَزَقْنَاهُمْ مِنَ ٱلطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا"
+        },
+        {
+            "mood": "Sedih",
+            "verse": "Wahai orang-orang yang beriman, bertobatlah kepada Allah dengan tobat yang semurni-murninya. Mudah-mudahan Tuhanmu akan menghapus kesalahan-kesalahanmu dan memasukkanmu ke dalam surga yang mengalir di bawahnya sungai-sungai pada hari ketika Allah tidak menghinakan Nabi dan orang-orang yang beriman bersamanya. Cahaya mereka memancar di hadapan dan di sebelah kanannya. Mereka berkata, 'Ya Tuhan kami, sempurnakanlah untuk kami cahaya kami dan ampunilah kami. Sesungguhnya Engkau Mahakuasa atas segala sesuatu.'",
+            "source": "At-Tahrim, Ayat 8",
+            "arabic": "يَا أَيُّهَا ٱلَّذِينَ آمَنُوا تُوبُوا إِلَىٰ ٱللَّهِ تَوْبَةً نَّصُوحًا عَسَىٰ رَبُّكُمْ أَنْ يُكَفِّرَ عَنكُمْ سَيِّئَاتِكُمْ وَيُدْخِلَكُمْ جَنَّٰتٍ تَجْرِي مِن تَحْتِهَا ٱلْأَنْهَارُ يَوْمَ لَا يُخْزِي ٱللَّهُ النَّبِيَّ وَٱلَّذِينَ آمَنُوا مَعَهُ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَانِهِمْ يَقُولُونَ رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا ۗ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ"
+        },
+        {
+            "mood": "Sedih",
+            "verse": "Apakah manusia mengira bahwa mereka akan dibiarkan (hanya dengan) berkata, 'Kami telah beriman,' sedangkan mereka tidak diuji?",
+            "source": "Al-Ankabut, Ayat 2",
+            "arabic": "أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ"
+        },
+        {
+            "mood": "Sedih",
+            "verse": "(Adapun) orang-orang yang beriman dan mengerjakan kebajikan, Kami tidak akan membebani seseorang melainkan menurut kesanggupannya. Mereka itulah penghuni surga. Mereka kekal di dalamnya.",
+            "source": "Al-A'raf, Ayat 42",
+            "arabic": "وَالَّذِينَ آمَنُوا وَعَمِلُوا ٱلصَّـٰلِحَاتِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۗ أُو۟لَـٰٓئِكَ أَصْحَابُ ٱلْجَنَّةِ هُمْ فِيهَا خَالِدُونَ"
+        },
+        {
+            "mood": "Bingung",
+            "verse": "Sesungguhnya Al-Qur’an ini memberi petunjuk ke (jalan) yang paling lurus dan memberi kabar gembira kepada orang-orang mukmin yang mengerjakan kebajikan bahwa bagi mereka ada pahala yang sangat besar",
+            "source": "Al-Isra, Ayat 9",
+            "arabic": "إِنَّ هَـٰذَا ٱلْقُرْآنَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ وَيُبَشِّرُ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّـٰلِحَاتِ أَنَّ لَهُمْ أَجْرًا كَبِيرًا"
+        },
+        {
+            "mood": "Bingung",
+            "verse": "(yaitu) bagi siapa di antaramu yang hendak menempuh jalan yang lurus.",
+            "source": "At-Takwir, Ayat 28",
+            "arabic": "لِمَنْ شَاءَ مِنكُمْ أَنْ يَسْتَقِيمَ"
+        },
+        {
+            "mood": "Bingung",
+            "verse": "(Yaitu) mereka yang mendengarkan perkataan lalu mengikuti apa yang paling baik di antaranya. Mereka itulah orang-orang yang telah diberi petunjuk oleh Allah dan mereka itulah ululalbab (orang-orang yang mempunyai akal sehat).",
+            "source": "Az-Zumar, Ayat 18",
+            "arabic": "ٱلَّذِينَ يَسْتَمِعُونَ ٱللَّغْوَ وَيَتْبِعُونَ أَحْسَنَهُ ۗ أُو۟لَـٰٓئِكَ هُمْ هُدُوا إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ"
+        },
+        {
+            "mood": "Bingung",
+            "verse": "Wahai manusia, sungguh telah datang kepadamu pelajaran (Al-Qur’an) dari Tuhanmu, penyembuh bagi sesuatu (penyakit) yang terdapat dalam dada, dan petunjuk serta rahmat bagi orang-orang mukmin.",
+            "source": "Yunus, Ayat 57",
+            "arabic": "يَا أَيُّهَا ٱلنَّاسُ قَدْ جَاءَتْكُمْ مَوْعِظَةٌ مِّن رَّبِّكُمْ وَشِفَاءٌ لِّمَا فِي ٱلصُّدُورِ وَهُدًى وَرَحْمَةٌ لِّلْمُؤْمِنِينَ"
+        },
+        {
+            "mood": "Bingung",
+            "verse": "Agar orang-orang yang telah diberi ilmu itu mengetahui bahwa ia (Al-Qur’an) adalah kebenaran dari Tuhanmu sehingga mereka beriman dan hati mereka tunduk kepadanya. Sesungguhnya Allah benar-benar Maha Pemberi petunjuk kepada orang-orang yang beriman ke jalan yang lurus.",
+            "source": "Al-Hajj, Ayat 54",
+            "arabic": "وَلِيَعْلَمَ الَّذِينَ أُوتُوا ٱلْعِلْمَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّكَ فَيُؤْمِنُوا بِهِ ۗ وَتُخْبِتَ لَهُ قُلُوبُهُمْ ۗ وَإِنَّ ٱللَّهَ لَـٰدِيٌّ لِّلْمُؤْمِنِينَ"
+        },
+        {
+            "mood": "Bingung",
+            "verse": "Kami tidak menurunkan Kitab (Al-Qur’an) ini kepadamu (Nabi Muhammad), kecuali agar engkau menjelaskan kepada mereka apa yang mereka perselisihkan serta menjadi petunjuk dan rahmat bagi kaum yang beriman.",
+            "source": "An-Nahl, Ayat 64",
+            "arabic": "وَمَا أَنزَلْنَا عَلَيْكَ ٱلْكِتَٰبَ إِلَّا لِتُبَيِّنَ لَهُمْ الَّذِي يَخْتَلِفُونَ فِيهِ وَلِهُدًۭى وَرَحْمَةٌ لِّقَوْمٍ يُؤْمِنُونَ"
+        },
+        {
+            "mood": "Bingung",
+            "verse": "Dengannya (kitab suci) Allah menunjukkan kepada orang yang mengikuti rida-Nya jalan-jalan keselamatan, mengeluarkannya dari berbagai kegelapan menuju cahaya dengan izin-Nya, dan menunjukkan kepadanya (satu) jalan yang lurus.",
+            "source": "Al-Ma'idah, Ayat 16",
+            "arabic": "بِهِ يَهْدِي ٱللَّهُ مَنْ اتَّبَعَ رِضْوَٰنَهُ سُبُلَ السَّلَامِ وَيُخْرِجُهُمْ مِّنَ ٱلْظُّلُمَاتِ إِلَىٰ النُّورِ بِإِذْنِهِ ۖ وَيَهْدِيهِمْ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ"
+        },
+        {
+            "mood": "Bingung",
+            "verse": "Ini (Al-Qur’an) adalah pedoman bagi manusia, petunjuk, dan rahmat bagi kaum yang meyakini(-nya).",
+            "source": "Al-Jatsiyah, Ayat 20",
+            "arabic": "هَـٰذَا بَصَائِرُ لِلنَّاسِ وَهُدًۭى وَرَحْمَةٌ لِّقَوْمٍ يُوقِنُونَ"
+        },
+        {
+            "mood": "Bingung",
+            "verse": "Dan Kami cabut segala macam dendam yang berada di dalam dada mereka; mengalir di bawah mereka sungai-sungai dan mereka berkata: 'Segala puji bagi Allah yang telah menunjuki kami kepada (surga) ini. Dan kami sekali-kali tidak akan mendapat petunjuk kalau Allah tidak memberi kami petunjuk. Sesungguhnya telah datang rasul-rasul Tuhan kami, membawa kebenaran.' Dan diserukan kepada mereka: 'Itulah surga yang diwariskan kepadamu, disebabkan apa yang dahulu kamu kerjakan.'",
+            "source": "Al-A’raaf, Ayat 43",
+            "arabic": "وَنَزَعْنَا مَا فِي صُدُورِهِمْ مِنْ غِلٍّ تَجْرِي مِن تَحْتِهِمُ ٱلْأَنْهَارُ وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي هَدَانَا لِهَـٰذَا وَمَا كُنَّا لِنَهْتَدِيَ لَوْلَا أَنْ هَدَانَا ٱللَّهُ ۗ لَقَدْ جَاءَتْ رُسُلُ رَبِّنَا بِالْحَقِّ ۗ وَنُودُوا أَنْ تِلْكَ ٱلْجَنَّةُ الَّتِي أُورِثْتُمُوهَا بِمَا كُنتُمْ تَعْمَلُونَ"
+        },
+        {
+            "mood": "Bingung",
+            "verse": "Sesungguhnya Tuhanmu, Dia-lah yang lebih mengetahui tentang orang yang tersesat dari jalan-Nya dan Dia lebih mengetahui tentang orang orang yang mendapat petunjuk.",
+            "source": "Al-An’aam, Ayat 117",
+            "arabic": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيلِهِ وَهُوَ أَعْلَمُ بِمَنْ اهْتَدَىٰ"
+        },
+        {
+            "mood": "Marah",
+            "verse": "Bersabarlah atas segala apa yang mereka katakan; dan ingatlah hamba Kami Daud yang mempunyai kekuatan; sesungguhnya dia amat taat (kepada Tuhan).",
+            "source": "Shad, 17",
+            "arabic": "فَصْبِرْ عَلَىٰ مَا يَقُولُونَ وَذْكُرْ عَبْدَنَا دَاوُودَ ذَا ٱلْأَيْدِ ۗ إِنَّهُٓ أَوَّابٌ"
+        },
+        {
+            "mood": "Marah",
+            "verse": "Jika kamu membalas, balaslah dengan (balasan) yang sama dengan siksaan yang ditimpakan kepadamu. Sungguh, jika kamu bersabar, hal itu benar-benar lebih baik bagi orang-orang yang sabar.",
+            "source": "An-Nahl, 126",
+            "arabic": "وَإِنْ عَذَّبْتُمْ فَذُوقُوا ۗ وَإِنْ صَبَرْتُمْ لَهُوَ خَيْرٌ لِّلصَّابِرِينَ"
+        },
+        {
+            "mood": "Marah",
+            "verse": "Bersabarlah (Nabi Muhammad) dan kesabaranmu itu semata-mata dengan (pertolongan) Allah, janganlah bersedih terhadap (kekufuran) mereka, dan jangan (pula) bersempit dada terhadap tipu daya yang mereka rencanakan.",
+            "source": "An-Nahl, 127",
+            "arabic": "فَصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُنْ كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ ۗ لَّا تَحْزَنْ عَلَيْهِمْ وَلَا تَكْنَ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ"
+        },
+        {
+            "mood": "Marah",
+            "verse": "Bersegeralah menuju ampunan dari Tuhanmu dan surga (yang) luasnya (seperti) langit dan bumi yang disediakan bagi orang-orang yang bertakwa.",
+            "source": "Ali 'Imran, 133",
+            "arabic": "سَابِقُوا إِلَىٰ مَغْفِرَةٍ مِن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَاوَاتِ وَٱلْأَرْضِ أُعِدَّتْ لِلْمُتَّقِينَ"
+        },
+        {
+            "mood": "Marah",
+            "verse": "Taatilah Allah dan Rasul (Nabi Muhammad) agar kamu diberi rahmat.",
+            "source": "Ali 'Imran, 132",
+            "arabic": "وَأَطِيعُوا ٱللَّهَ وَالرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ"
+        },
+        {
+            "mood": "Marah",
+            "verse": "“Ya (cukup).” Jika kamu bersabar dan bertakwa, lalu mereka datang menyerang kamu dengan tiba-tiba, niscaya Allah menolongmu dengan lima ribu malaikat yang memakai tanda.",
+            "source": "Ali 'Imran, 125",
+            "arabic": "إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَا يَكْفِيكُمْ أَنْ يُبْعَثَ عَلَيْكُمْ مِنَ ٱللَّهِ خَمْسَةَ آلَافٍ مِنَ ٱلْمَلَائِكَةِ مُنْزَلِينَ"
+        },
+        {
+            "mood": "Marah",
+            "verse": "Akan tetapi, sungguh siapa yang bersabar dan memaafkan, sesungguhnya yang demikian itu termasuk urusan yang (patut) diutamakan.",
+            "source": "Asy-Syura, 43",
+            "arabic": "وَمَنْ صَبَرَ وَغَفَرَ ۚ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ"
+        },
+        {
+            "mood": "Marah",
+            "verse": "“Wahai anakku, tegakkanlah sholat dan suruhlah (manusia) berbuat yang makruf dan cegahlah (mereka) dari berbuat yang mungkar dan bersabarlah terhadap apa yang menimpamu, sesungguhnya yang demikian itu termasuk perkara yang penting.”",
+            "source": "Luqman, 17",
+            "arabic": "يَا بُنَيَّ أَقِمِ ٱلصَّلَوٰةَ وَأْمُرْ بِالْمَعْرُوفِ وَٱنْهَ عَنِ ٱلْمُنْكَرِ وَصْبِرْ عَلَىٰ مَا أَصَابَكَ ۚ إِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ"
+        },
+        {
+            "mood": "Marah",
+            "verse": "“Mereka itulah orang yang dibalasi dengan martabat yang tinggi (dalam surga) karena kesabaran mereka dan mereka disambut dengan penghormatan dan ucapan selamat di dalamnya,”",
+            "source": "Al-Furqan, 75",
+            "arabic": "وَالَّذِينَ صَبَرُوا ابْتِغَاءَ وَجْهِ رَبِّهِمْ وَأَقَامُوا ٱلصَّلَوٰةَ وَأَنْفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً وَيَدْفَعُونَ بِالْحَسَنَةِ ٱلسَّيِّئَةَ أُو۟لَـٰٓئِكَ لَهُمْ عُقْبَى ٱلْدَّارِ"
+        },
+        {
+            "mood": "Marah",
+            "verse": "Dan bersabarlah, karena sesungguhnya Allah tiada menyia-nyiakan pahala orang-orang yang berbuat kebaikan.",
+            "source": "Hud, 115",
+            "arabic": "فَصْبِرْ ۗ إِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ"
+        },
+        {
+            "mood": "Senang",
+            "verse": "Maka ingatlah kamu kepada-Ku, niscaya Aku ingat pula kepadamu, dan bersyukurlah kepada-Ku, dan janganlah kamu mengingkari nikmat-Ku.",
+            "source": "Al-Baqarah, Ayat 152",
+            "arabic": "فَٱذْكُرُونِيٓ أَذْكُرْكُمْ ۖ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ"
+        },
+        {
+            "mood": "Senang",
+            "verse": "Hai orang-orang yang beriman, makanlah yang baik-baik dari rezeki yang telah Kami berikan kepadamu dan bersyukurlah kepada Allah, jika benar-benar hanya kepada-Nya kamu menyembah.",
+            "source": "Al-Baqarah, Ayat 172",
+            "arabic": "يَا أَيُّهَا ٱلَّذِينَ آمَنُوا كُلُوا مِن طَيِّبَاتِ مَا رَزَقْنَاكُمْ وَاشْكُرُوا لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ"
+        },
+        {
+            "mood": "Senang",
+            "verse": "Sesuatu yang bernyawa tidak akan mati melainkan atas izin Allah, sebagai ketetapan yang sudah ditentukan waktunya. Barangsiapa menghendaki pahala dunia, niscaya Kami berikan kepadanya pahala dunia itu, dan barangsiapa menghendaki pahala akhirat, niscaya Kami berikan (pula) kepadanya pahala akhirat itu. Dan kami akan memberi balasan kepada orang-orang yang bersyukur.",
+            "source": "Ali Imran, Ayat 145",
+            "arabic": "وَمَا كَانَ لِنَفْسٍ أَنْ تَمُوتَ إِلَّا بِإِذْنِ ٱللَّهِ كِتَابًا مُؤَجَّلًا ۗ وَمَنْ يُرِدْ ثَوَابَ ٱلدُّنْيَا نُؤْتِهِ مِنْهَا ۖ وَمَنْ يُرِدْ ثَوَابَ ٱلْآخِرَةِ نُؤْتِهِ مِنْهَا ۗ وَسَنَجْزِي الشَّاكِرِينَ"
+        },
+        {
+            "mood": "Senang",
+            "verse": "Mengapa Allah akan menyiksamu, jika kamu bersyukur dan beriman?. Dan Allah adalah Maha Mensyukuri lagi Maha Mengetahui.",
+            "source": "An-Nisa, Ayat 147",
+            "arabic": "مَا يَفْعَلُ ٱللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَآمَنْتُمْ ۗ وَكَانَ ٱللَّهُ شَاكِرًا عَلِيمًا"
+        },
+        {
+            "mood": "Senang",
+            "verse": "Tanah yang baik, tanaman-tanamannya tumbuh subur atas izin Allah. Dan tanah yang tidak subur, tanaman-tanamannya hanya tumbuh merana. Demikianlah Kami mengulangi tanda-tanda kebesaran (Kami) bagi orang-orang yang bersyukur.",
+            "source": "Al-A’raf, Ayat 58",
+            "arabic": "وَٱرْضٌ طَيِّبَةٌ يَكْبُرُ نَبَاتُهَا بِإِذْنِ رَبِّهَا ۖ وَٱرْضٌ خَبِيثَةٌ لَا يَكْبُرُ نَبَاتُهَا ۗ كَذَٰلِكَ نُفَصِّلُ ٱلْآيَاتِ لِقَوْمٍ يَشْكُرُونَ"
+        },
+        {
+            "mood": "Senang",
+            "verse": "(Yaitu) orang-orang yang beriman dan hati mereka menjadi tenteram dengan mengingat Allah. Ingatlah, bahwa hanya dengan mengingat Allah hati akan selalu tenteram.",
+            "source": "Ar-Rad, Ayat 28",
+            "arabic": "ٱلَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُمْ بِذِكْرِ ٱللَّهِ ۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ"
+        },
+        {
+            "mood": "Senang",
+            "verse": "Dan ingatlah ketika Tuhanmu memaklumkan, “Sesungguhnya jika kamu bersyukur, pasti Aku akan menambahkan nikmat-Ku kepadamu, dan jika kamu mengingkari (nikmat-Ku), maka sesungguhnya azab-Ku sangatlah pedih”.",
+            "source": "Ibrahim, Ayat 7",
+            "arabic": "وَإِذْ قَالَ رَبُّكَ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ"
+        },
+        {
+            "mood": "Senang",
+            "verse": "(Yang demikian itu kami tetapkan) agar kamu tidak bersedih terhadap apa yang luput dari kamu dan tidak pula terlalu gembira terhadap apa yang diberikan-Nya kepadamu. Allah tidak menyukai setiap orang yang sombong lagi membanggakan diri.",
+            "source": "Al-Hadid, Ayat 23",
+            "arabic": "مَا أَصَابَ مِن مُصِيبَةٍ إِلَّا بِإِذْنِ ٱللَّهِ ۗ وَمَنْ يُؤْمِنْ بِٱللَّهِ يَهْدِ قَلْبَهُ ۗ وَٱللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ"
+        },
+        {
+            "mood": "Senang",
+            "verse": "Sungguh, beruntunglah orang-orang mukmin. kecuali terhadap istri-istri mereka atau hamba sahaya yang mereka miliki. Sesungguhnya mereka tidak tercela (karena menggaulinya).",
+            "source": "Al-Mu'minun, Ayat 1-6",
+            "arabic": "قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ ٱلَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ وَٱلَّذِينَ هُمْ عَنِ ٱللَّغْوِ مُعْرِضُونَ وَٱلَّذِينَ هُمْ لِلزَّكَاةِ فَاعِلُونَ وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ إِلَّا عَلَىٰ أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ"
+        },
+        {
+            "mood": "Senang",
+            "verse": "(Sungguh beruntung pula) orang-orang yang memelihara amanat dan janji mereka. Orang-orang yang memelihara salat mereka. Mereka itulah orang-orang yang akan mewarisi. (Yaitu) orang-orang yang akan mewarisi (surga) Firdaus. Mereka kekal di dalamnya.",
+            "source": "Al-Mu'minun, Ayat 8-11",
+            "arabic": "وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعْدِهِمْ رَاعُونَ وَٱلَّذِينَ هُمْ عَلَىٰ صَلَوَاتِهِمْ يُحَافِظُونَ أُو۟لَـٰٓئِكَ هُمْ الْوَارِثُونَ ٱلَّذِينَ يَرِثُونَ الْفِرْدَوْسَ هُمْ فِيهَا خَالِدُونَ"
+        },
+        {
+            "mood": "Senang",
+            "verse": "Wahai jiwa yang tenang, kembalilah kepada Tuhanmu dengan rida dan diridai. Lalu, masuklah ke dalam golongan hamba-hamba-Ku dan masuklah ke dalam surga-Ku!",
+            "source": "Al-Fajr, 27-30",
+            "arabic": "يَا أَيَّتُهَا ٱلنَّفْسُ ٱلطَّمَأْنِينَةُ ارْجِعِيٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً فَادْخُلِي فِي عِبَادِي وَادْخُلِي جَنَّتِي"
+        },
+        {
+            "mood": "malas",
+            "verse": "Tidaklah seseorang makan suatu makanan yang lebih baik daripada memakan dari hasil kerja keras tangannya sendiri. Dan Nabi Dawud عليه السلام, ia makan dari hasil kerja keras tangannya sendiri.",
+            "source": "HR. Bukhari No. 2072",
+            "arabic": "لَا يَأْكُلُ أَحَدٌ طَعَامًا خَيْرًا مِنْ أَنْ يَأْكُلَ مِنْ عَمَلِ يَدِهِ، وَكَانَ نَبِيُّ اللَّهِ دَاوُدُ عَلَيْهِ السَّلَامُ يَأْكُلُ مِنْ عَمَلِ يَدِهِ"
+        },
+        {
+            "mood": "malas",
+            "verse": "Amal yang paling dicintai oleh Allah adalah amal yang terus-menerus dilakukan, meskipun sedikit.",
+            "source": "HR. Bukhari No. 6464",
+            "arabic": "أَحَبُّ ٱلْأَعْمَالِ إِلَىٰ ٱللَّهِ عَزَّ وَجَلَّ أَدْوَمُهَا وَإِن قَلَّ"
+        },
+        {
+            "mood": "malas",
+            "verse": "Ada dua kenikmatan yang banyak manusia tertipu karenanya: nikmat sehat dan waktu luang.",
+            "source": "HR. Bukhari No. 6412",
+            "arabic": "نِعْمَتَانِ مَغْبُونٌ فِيهِمَا كَثِيرٌ مِنَ النَّاسِ: الصِّحَّةُ وَالْفَرَاغُ"
+        },
+        {
+            "mood": "malas",
+            "verse": "Ya Allah, aku berlindung kepada-Mu dari kelemahan dan kemalasan, dari ketakutan dan kepikunan, dari kebakhilan dan kekikiran.",
+            "source": "HR. Bukhari No. 6369",
+            "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْهَرَمِ وَالْبُخْلِ وَالْقَلَقِ"
+        },
+        {
+            "mood": "malas",
+            "verse": "Rasulullah (ﷺ) biasa memohon perlindungan kepada Allah dengan berdoa, ”Ya Allah! Aku berlindung kepada-Mu dari sifat malas, aku berlindung kepada-Mu dari sifat pengecut, aku berlindung kepada-Mu dari usia tua yang lemah, dan aku berlindung kepada-Mu dari sifat kikir.”",
+            "source": "Sahih al-Bukhari 6371",
+            "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْهَرَمِ وَالْبُخْلِ"
+        },
+        {
+            "mood": "malas",
+            "verse": "Sesungguhnya orang-orang munafik itu menipu Allah, dan Allah akan membalas tipuan mereka. Dan apabila mereka berdiri untuk shalat mereka berdiri dengan malas. Mereka bermaksud riya (dengan shalat) di hadapan manusia. Dan tidaklah mereka menyebut Allah kecuali sedikit sekali.",
+            "source": "Surat An-Nisa, Ayat 142",
+            "arabic": "إِنَّ ٱلْمُنَافِقِينَ يُخَادِعُونَ ٱللَّهَ وَهُوَ خَادِعُهُمْ ۗ وَإِذَا قَامُوآ إِلَى ٱلصَّلَوٰتِ قَامُوا كُسَالَىٰ يُرَاءُونَ النَّاسَ وَلَا يَذْكُرُونَ ٱللَّهَ إِلَّا قَلِيلًا"
+        },
+        {
+            "mood": "malas",
+            "verse": "Dan tidak ada yang menghalangi mereka untuk diterima dari mereka nafkah-nafkahnya melainkan karena mereka kafir kepada Allah dan Rasul-Nya dan mereka tidak mengerjakan sembahyang, melainkan dengan malas dan tidak (pula) menafkahkan (harta) mereka, melainkan dengan rasa enggan.",
+            "source": "Surat At-Taubah, Ayat 54",
+            "arabic": "وَمَا مَنَعَهُمْ أَنْ تُقْبَلَ مِنْهُمْ نَفَقَاتُهُمْ إِلَّا أَنَّهُمْ كَفَرُوا بِٱللَّهِ وَبِرَسُولِهِ ۗ وَلَا يَأْتُونَ ٱلصَّلَوٰةَ إِلَّا كُسَالَىٰ وَلَا يُنْفِقُونَ إِلَّا وَهُمْ كَارِهُونَ"
+        }
             
 
             

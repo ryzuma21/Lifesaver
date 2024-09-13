@@ -1,4 +1,5 @@
 document.querySelector('.verse').innerHTML = `
+         <p class="arabic">وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَّعَدْلًاۗ لَا مُبَدِّلَ لِكَلِمٰتِهٖ ۚوَهُوَ السَّمِيْعُ الْعَلِيْمُ </p>
         <p>Telah sempurna kalimat Tuhanmu (Al-Qur’an) dengan (mengandung) kebenaran dan keadilan. Tidak ada (seorang pun) yang dapat mengubah kalimat-kalimat-Nya. Dia Maha Mendengar lagi Maha Mengetahui.</p>
         <p><em class="source">Source: Al'Anam, Ayat 115</em></p>
         `;
@@ -19,6 +20,8 @@ async function getVerse() {
         const verseData = filteredVerses[randomIndex];
 
         document.querySelector('.verse').innerHTML = `
+        
+        <p class="arabic">${verseData.arabic}</p>
         <p>${verseData.verse}</p>
         <p><em class="source">Source: ${verseData.source}</em></p>
         `;
