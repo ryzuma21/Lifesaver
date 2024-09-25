@@ -8,7 +8,6 @@
 body{
    
     background-position-y: center;
-    background-size: cover;
     background-repeat: no-repeat;
     background-image: url(./image/masjid.jpg);
     font-family: Poppins;
@@ -182,3 +181,27 @@ h1 .Hadith{
     color: #64c5b3;
 }
 
+.tool{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 20px;
+
+
+}
+
+.tool .copy{
+    font-size: 2rem;
+    color: #fff;
+    cursor: pointer;
+    
+    border-radius: 50%;
+    background-color: #141538;
+    transition: background-color 0.3s, color 0.3;
+
+}
+.tool .copy:hover{
+    color: #5efff2;
+    background-color: #ffffff;
+
+}

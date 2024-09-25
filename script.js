@@ -1,5 +1,4 @@
-
-
+feather.replace();
       
      document.addEventListener('contextmenu', function(event) {
     event.preventDefault(); 
@@ -44,4 +43,19 @@ async function getVerse() {
 }
 
 
+function copyText() {
+    const verseElement = document.querySelector('.verse');
+    
+    
+    if (verseElement.innerText) {
+        const verseText = verseElement.innerText     
+        navigator.clipboard.writeText(verseText).then(() => {
+            console.log("Verse copied to clipboard successfully!");
+        }).catch(err => {
+            console.error("Error copying text: ", err);
+        });
+    } else {
+        console.log("No verse available to copy.");
+    }
+}
 

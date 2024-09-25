@@ -10,6 +10,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/feather-icons"></script>
 
 </head>
 <body>
@@ -35,6 +36,10 @@
             <h2 class="verse"></h2>
             <p class="opening"></p>
             <div class="loader" id="loader"></div>   
+        </div>
+        <div class="tool">           
+            <i class="copy" data-feather="clipboard" id="copyText" onclick="copyText()"></i> 
+             
         </div>
         <div class="button">
             <button onclick="getVerse()">Beri aku petunjuk</button>
